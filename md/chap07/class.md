@@ -88,7 +88,7 @@
 - 매개변수로 String형 참조변수를 선언하여 문자열을 인자로 전달받을 수 있다.
 - 인스턴스 생성 과정에서 적절한 초기화가 필요함
 
-![Untitled](../img/class/Untitled.png)
+![Untitled](../../img/class/Untitled.png)
 
 ### 생성자 (Constructor)
 
